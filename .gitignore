@@ -1,0 +1,13 @@
+Debug/
+Release/
+*.vcxproj
+*.filters
+*.users
+*.rc
+*.aps
+*.txt
+targetver.h
+stdafx.cpp
+stdafx.h
+desktop.ini
+*vcxproj.user
