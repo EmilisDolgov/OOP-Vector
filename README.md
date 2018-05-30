@@ -1,5 +1,11 @@
 # OOP-Vector
 
+# [v1.0](https://github.com/EmilisDolgov/OOP-Vector/releases/tag/1.0)
+
+ * Palygintos Vector ir std::vector push_back funkcijos
+ * Eksperimentas pakartotas su flagais
+ * Trečioje užduotyje panaudotas Vector ir palygintas
+
 Vector vs std::vector
 
  |Konteinerio dydis|10000|100000|1000000|10000000|
