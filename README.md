@@ -2,7 +2,7 @@
 
 # "Cool stuff"
 
-![image]https://github.com/EmilisDolgov/OOP-Vector/blob/master/cool1.PNG
+![image](https://github.com/EmilisDolgov/OOP-Vector/blob/master/cool1.PNG)
 
 # [v1.0](https://github.com/EmilisDolgov/OOP-Vector/releases/tag/1.0)
 
