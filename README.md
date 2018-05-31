@@ -1,5 +1,9 @@
 # OOP-Vector
 
+# "Cool stuff"
+
+![image]https://github.com/EmilisDolgov/OOP-Vector/blob/master/cool1.PNG
+
 # [v1.0](https://github.com/EmilisDolgov/OOP-Vector/releases/tag/1.0)
 
  * Palygintos Vector ir std::vector push_back funkcijos
